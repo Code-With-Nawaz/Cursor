@@ -11,10 +11,11 @@ Live URL: https://cursor-ui-recreated.vercel.app/
 ---
 ## 📸 Screenshots
 
+Screenshots of the final output are included in the repository for reference.
+
 ### Homepage
 [Screenshot URL](https://raw.githubusercontent.com/Code-With-Nawaz/Cursor/master/public/screenshots/screenshot.png)
 
---
 
 ## ✅ Sections Recreated
 
