@@ -12,7 +12,7 @@ Live URL: https://cursor-ui-recreated.vercel.app/
 ## 📸 Screenshots
 
 ### Homepage
-![Homepage Screenshot](screenshots/screenshot.png)
+![Homepage Screenshot](/public/screenshots/screenshot.png)
 
 --
 
