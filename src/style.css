@@ -343,6 +343,7 @@ nav {
   grid-template-columns: 1fr 1fr 1fr;
 }
 .use-case-cards {
+    height: 500px;   
   padding: 14px;
   border-radius: 8px;
   background-color: #1b1913;
@@ -358,9 +359,10 @@ nav {
 }
 .use-case-cards img {
   width: 350px;
-  height: 400px;
-  object-fit: cover;
+  max-height: 72%;
+  object-fit: contain;
   border-radius: 10px;
+  object-position: top;
 }
 .use-case-cta {
   padding: 10px 0px;
